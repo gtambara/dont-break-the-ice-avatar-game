@@ -1,4 +1,4 @@
-# Dont-break-the-ice-game
+# dont-break-the-ice-avatar-game
 
 ![dontbreaktheice](https://user-images.githubusercontent.com/34486353/129434990-458ac443-016e-4251-aa0b-6a511eed0e0a.png)
 
